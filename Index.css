@@ -1,0 +1,35 @@
+:root {
+    background-color: #1e1e2e;
+    font-family: monospace;
+}
+
+p {
+    color: #cdd6f4;
+}
+p.subtext {
+    color: #bac2de;
+}
+
+h1 {
+    color: #a6e3a1;
+}
+h3 {
+    color: #a6e3a1;
+}
+a {
+    color: #f38ba8;
+    text-decoration: none;
+}
+div.surface {
+    width: 80vw;
+    border-radius: 1vw;
+    padding: 1vw;
+    margin: 1vw;
+    background-color: rgb(49, 50, 68);
+    position: relative;
+    left: 10vw;
+}
+img {
+    max-width: 50%;
+    height: auto;
+}
